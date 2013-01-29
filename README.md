@@ -8,6 +8,7 @@ A C# based CMS, similar to wordpress in simplicity
 * The content should be exposed through web services, and can be consumed by javascript, ios, etc
 * The backend must be flexible, we need to be able to swap out data storage modules
 * there should be an optional data caching module. again, it should be able to be swapped out.
+* The UI should be based on bootstrap, or something similar, we can also use ASP.NET MVC for the quick Admin UI
 
 
 
