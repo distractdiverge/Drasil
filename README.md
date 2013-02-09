@@ -1,7 +1,7 @@
 Drasil
 =======
 
-A C# based CMS, similar to wordpress in simplicity
+A JavaScript/Node based CMS, built around structured data. (e.g. RDF)
 
 
 * A main goal is to design a content management system, thats it, the system should not care how the content is consumed.
