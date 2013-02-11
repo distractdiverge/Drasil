@@ -3,7 +3,7 @@
 	"preferGlobal" : "true",
 	"version" : "0.0.1",
 	"author" : "Alex Lapinski <drasil@alexlapinski.name>",
-	"description" : "An structured content management system (w/ HTTP API).",
+	"description" : "A structured content management system (w/ HTTP API). (Currently in Progress)",
 	"contributors" : [
 		{
 			"name" : "Alex Lapinski",
@@ -30,10 +30,12 @@
 		"structured",
 		"rdf",
 		"structured content management",
-		"sparql"
+		"sparql",
+		"n3",
+		"rdf"
 	],
 	"dependencies" : {
-		"sparql" : "0.1.3",
+		"n3" : "0.0.6",
 		"bootstrap" : "0.0.2",
 		"mini-handlebars" : "0.1.0"
 	},
